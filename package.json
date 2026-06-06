@@ -4,7 +4,13 @@
   "collaborators": [
     "Nicolas Kist Steffen"
   ],
-  "version": "1.1.0",
+  "description": "A simple LC Circuit calculator. Designed to be funny, not practical.",
+  "version": "1.2.1",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/nicolas5241/TheCalcularoty"
+  },
   "files": [
     "the_calcularoty_bg.wasm",
     "the_calcularoty.js",
