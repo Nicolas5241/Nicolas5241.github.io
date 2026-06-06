@@ -14,7 +14,8 @@
   "files": [
     "the_calcularoty_bg.wasm",
     "the_calcularoty.js",
-    "the_calcularoty.d.ts"
+    "the_calcularoty.d.ts",
+    "LICENSE.md"
   ],
   "main": "the_calcularoty.js",
   "types": "the_calcularoty.d.ts",
