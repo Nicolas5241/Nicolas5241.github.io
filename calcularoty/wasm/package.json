@@ -5,7 +5,7 @@
     "Nicolas Kist Steffen"
   ],
   "description": "A simple LC Circuit calculator. Designed to be funny, not practical.",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
@@ -14,8 +14,7 @@
   "files": [
     "the_calcularoty_bg.wasm",
     "the_calcularoty.js",
-    "the_calcularoty.d.ts",
-    "LICENSE.md"
+    "the_calcularoty.d.ts"
   ],
   "main": "the_calcularoty.js",
   "types": "the_calcularoty.d.ts",
